@@ -1,5 +1,5 @@
-# text-to-speech
-Simple Case pour parler
+# Écris et ecoute
+Écrivez quelque chose et écouter.
 
-# Live Preview
-**[julioju.gq](https://text-pour-parler.netlify.app "Click Here For Preview")**
+# Exemple
+**[Voir un exemple](https://text-pour-parler.netlify.app "Clic ici pour prévisualiser")**
